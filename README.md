@@ -1,15 +1,16 @@
-<h1 align="center">SKAREZ #0001</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skarez" alt="skarez" /></a> </p>
+<h1 align="center">__**SKAREZ's Profile**__</h1>
 
 <p align="left"> <a href="https://twitter.com/_skarez" target="blank"><img src="https://img.shields.io/twitter/follow/_skarez?logo=twitter&style=for-the-badge" alt="_skarez" /></a> </p>
 
-- 🔎 Currently Working and Learning : **Java, JS, Node.JS, Bash Linux/Windows**
+- 🔎 **Currently Working and Learning :** Java, JS, Node.JS, Bash Linux/Windows
 
-- 💲 Donate : [PayPal](https://paypal.me/skz54)
+- 💲 **Donate :** [PayPal](https://paypal.me/skz54)
 
-- 📞 Contact : **SKAREZ#0001**
+- 📞 **Contact :** SKAREZ#0001
 
-- 📃 About : **All of my projects are free to use, fully open-source and editables (Expect if a permission is garranted!)**
+- 📃 **About :** All of my projects are free to use, fully open-source and editables (Expect if a permission is garranted!)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
