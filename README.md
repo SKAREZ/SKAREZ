@@ -1,6 +1,6 @@
 <h1 align="center">SKAREZ's Profile</h1>
 
-<p align="center"> <a href="https://twitter.com/_SKAREZ" target="blank"><img src="https://img.shields.io/twitter/follow/_skarez?logo=twitter&style=for-the-badge" alt="_skarez" /></a> </p>
+<p align="center"> <a href="https://twitter.com/_SKAREZ" target="blank"><img src="https://img.shields.io/twitter/follow/Twitter?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔎 **Currently Working and Learning :** Java, JS, Node.JS, Bash Linux/Windows
 
