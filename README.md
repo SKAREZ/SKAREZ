@@ -1,9 +1,14 @@
 <h1 align="center">SKAREZ's Profile</h1>
 
-<p align="center"> <img alt="Twitter" src="https://img.shields.io/badge/Twitter-303335?style=for-the-badge&logo=twitter">
-<img alt="YouTube" src="https://img.shields.io/badge/YouTube-303335?style=for-the-badge&logo=youtube&logoColor=A74A40">
-<img alt="Discord" src="https://img.shields.io/badge/Contact-303335?style=for-the-badge&logo=discord">
-</a> </p>
+
+<p align="center"> 
+<a href="https://twitter.com/SKAREZ_Z">
+<img alt="Twitter" src="https://img.shields.io/badge/Twitter-303335?style=for-the-badge&logo=twitter"></a>
+<a href="https://youtube.com/c/SKAREZ">
+<img alt="YouTube" src="https://img.shields.io/badge/YouTube-303335?style=for-the-badge&logo=youtube&logoColor=A74A40"></a>
+<a href="https://discord.gg/sS7X8cPt62">
+<img alt="Discord" src="https://img.shields.io/badge/Contact-303335?style=for-the-badge&logo=discord"></a>
+</p>
 
 - 🔎 **Currently Working and Learning :** Java, JS, Node.JS, Bash Linux/Windows
 
