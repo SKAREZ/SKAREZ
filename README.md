@@ -1,6 +1,6 @@
-<h1 align="center">__**SKAREZ's Profile**__</h1>
+<h1 align="center">SKAREZ's Profile</h1>
 
-<p align="left"> <a href="https://twitter.com/_skarez" target="blank"><img src="https://img.shields.io/twitter/follow/_skarez?logo=twitter&style=for-the-badge" alt="_skarez" /></a> </p>
+<p align="center"> <a href="https://twitter.com/_SKAREZ" target="blank"><img src="https://img.shields.io/twitter/follow/_skarez?logo=twitter&style=for-the-badge" alt="_skarez" /></a> </p>
 
 - 🔎 **Currently Working and Learning :** Java, JS, Node.JS, Bash Linux/Windows
 
@@ -8,7 +8,7 @@
 
 - 📞 **Contact :** SKAREZ#0001
 
-- 📃 **About :** All of my projects are free to use, fully open-source and editables (Expect if a permission is garranted!)
+- 📃 **About :** All of my projects are free to use, fully open-source and editables *(Expect if a permission is garranted!)*
 
 
 
