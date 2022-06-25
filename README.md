@@ -12,7 +12,7 @@
 
 - 🔎 **Currently Working and Learning :** Java, JS, Node.JS, Bash Linux/Windows
 
-- 💲 **Donate :** [PayPal](https://paypal.me/skz54)
+- 💲 **Donate :** [PayPal](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 - 📞 **Contact :** SKAREZ#0001 on Discord
 
