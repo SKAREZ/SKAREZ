@@ -14,7 +14,7 @@
 
 - 💲 **Donate :** [PayPal](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-- 📞 **Contact :** SKAREZ#0001 on Discord
+- 📞 **Contact :** SKAREZ#9416 on Discord
 
 - 📃 **About :** All of my projects are free to use, fully open-source and editables *(Expect if a permission is garranted!)*
 
